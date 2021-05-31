@@ -40,6 +40,4 @@
                 break;
             default: printf("\nVoce digitou uma opcao invalida, por favor escolha 1,2,3,4 ou 5!!!");
             }
-
-
 }
